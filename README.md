@@ -15,7 +15,7 @@ Este projeto consiste em uma API REST para gerenciamento de jogos, com funcional
 - **API REST**: hospedada em container EC2/Docker
 - **API Gateway**: permite acesso seguro às rotas da aplicação
 - **Lambda `/report`**: função que consome a API e retorna estatísticas sobre os jogos
-- **CI/CD**: via GitHub + CodePipeline (não implantado por restrição da AWS Academy)
+
 
 ### Endpoints disponíveis
 
